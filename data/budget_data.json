@@ -1,0 +1,12 @@
+{
+  "transactions": [
+    {
+      "id": "0262e8c0-937d-4d8a-953f-25495cbc3565",
+      "amount": 1000.0,
+      "category": "Salary",
+      "description": "Starting budget.",
+      "date": "2025-11-01T10:29:32.059636",
+      "type": "income"
+    }
+  ]
+}
